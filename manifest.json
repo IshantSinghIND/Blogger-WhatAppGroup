@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/https://www.whatappgroup.com",
+    "start_url": "https://www.whatappgroup.com",
     "app_name": "WhatAppGroup.com",
     "short_name": "WhatAppGroup",
     "description": "Discover all measure information related to take science space social media and much more subscribe to get daily notification",
